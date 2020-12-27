@@ -1,0 +1,12 @@
+
+1.SQL injections: SaltStack Salt 2018.3, 2019.2
+    +Vector String - CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H - Score: 9.8(Critical)
+    +DREAD: 3 3 3 3 2	- Score: 14(High)
+    
+2.Stored and Reflected XSS (CVE-2019-16219) WiKID 2FA Enterprise Server
+    +Vector String - CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N - Score: 6.1 Medium
+    +DREAD: 2 3 3 2 2 - Score: 12(High)
+    
+CVE-2019-9787: CSRF - WordPress 5.1.1
+    +Vector String - CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H - Score: 8.8(High)
+    +DREAD: 3 2 3 1 2 -Score: 11(High)
