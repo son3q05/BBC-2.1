@@ -1,1 +1,3 @@
-A simple hash will not hide the commitments well, only binding. Malicious server can easily learn all user’s contacts with some popular attacks, like Brute Force, rainbow table, Birthday Attack,… without any difficulty, in a very short period of time with the help of model GPUs(models GPUs can brute force attack to get all the informations in BobCrypt server in about 2 days). 
+A simple hash will not hide the commitments well, only binding. Malicious server can easily learn all user’s contacts with some popular attacks,
+like Brute Force, rainbow table, Birthday Attack,… without any difficulty, in a very short period of time with the help of model GPUs(models GPUs 
+can brute force attack to get all the informations in BobCrypt server in about 2 days). 
