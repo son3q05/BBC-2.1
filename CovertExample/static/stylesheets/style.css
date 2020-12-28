@@ -1,0 +1,51 @@
+body{
+    font-family: Time 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blueviolet;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+#top{
+    background: burlywood;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 50px;
+} 
+
+#welcome{
+    background: chocolate;
+    height:80px;
+    line-height: 80px;
+    text-align: center;
+    color: aliceblue;
+}
+#deczone {
+    background: cornflowerblue;
+    height:650px;
+}
+
+#deczone h1{
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+#enc{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 20px;
+    color:darkred;
+    word-wrap: break-word
+}
+
+#Footer{
+    background: darkgray;
+    text-align: right;
+    height:40px;
+    line-height: 40px;
+    padding-right: 10px;
+}
